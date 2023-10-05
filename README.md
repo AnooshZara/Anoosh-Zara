@@ -1,6 +1,8 @@
-# Anoosh-Zara
+# Anoosh Zara
 <h1 align="center">Hi 👋, I'm Anoosh Zara</h1>
 <h3 align="center">A passionate Web 3.0 developer and Blockchain Researcher from Pakistan</h3>
+
+<img align="right" alt="blockchain" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw09oRtX-JBkUMUzvbHMt7-N&ust=1696611412496000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDRlZiw34EDFQAAAAAdAAAAABAj">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoosh-zara&label=Profile%20views&color=0e75b6&style=flat" alt="anoosh-zara" /> </p>
 
